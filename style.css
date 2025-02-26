@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(assets/bg-image.jpg);
+  background-image: url(/assets/bg-image.svg);
   background-size: cover;
   background-color: #573824;
 }
@@ -32,7 +32,7 @@ main {
   padding: 24px;
 }
 
-section section {
+section + section {
   margin-top: 24px;
 }
 
